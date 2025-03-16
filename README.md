@@ -5,3 +5,5 @@
 --Developed insights that enabled that company to make informed decision on loan approvals,reducing the riak of financial loss.
 --Applied Risk Analytics principles to enhance portfolio and risk assessment stratigies.Contributed to the identification of a consumer attributes crucial for assessing repayment capabilities,ensuring the approval 
  of loans for creditworthy applicants.
+You can download the dataset from here: Download the dataset from the link below.  
+https://drive.google.com/open?id=16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
